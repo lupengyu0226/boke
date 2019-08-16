@@ -9,19 +9,6 @@
 <body>
   <h1><a href="http://www.baidu.com">hello  百度</a></h1>
   <h2>你是真的皮</h2>
-  <h3>服了我是</h3>
-  <h4>malegebazi</h4>
-  <h2>nkjkk</h2>
-  <h3>再不行 我也没办法了</h3>
-  <h2>你说是不是</h2>
-  <h2>我说是的</h2>
-  <h3>求你了可以吧</h3>
-  <h6>你说是不是</h6>
-
-  <p>wo cai ni caibucai </p>
-
-  <h2>是成功了吧 我没猜错吧</h2>
-  <h2>是成功了吧 我没猜错吧</h2>
-  <h1><a href="http://www.baidu.com">hello  百度</a></h1>
+ 
 </body>
 </html>
